@@ -4,7 +4,7 @@ import (
 	"flag"
 	"testing"
 
-	"github.com/lukasjarosch/go-docx"
+	docx "github.com/zaizi/zaizi-go-docx"
 )
 
 var templatePath, outputPath string

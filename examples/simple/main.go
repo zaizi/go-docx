@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/lukasjarosch/go-docx"
+	docx "github.com/zaizi/zaizi-go-docx"
 )
 
 var templatePath, outputPath string
