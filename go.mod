@@ -1,4 +1,4 @@
-module github.com/zaizi/go-docx
+module github.com/zaizi/zaizi-go-docx
 
 go 1.14
 
